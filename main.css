@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    margin: 5px auto;
+    border: 5px dotted pink;
+}
